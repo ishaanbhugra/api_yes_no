@@ -1,0 +1,25 @@
+body{
+    background-color: slategray;
+}
+
+#button{
+    background-color: black;
+    color: red;
+}
+
+.container{
+    /* width: 40vw; */
+    display:grid;
+    justify-content: center;
+    background-color: aqua;
+}
+
+h1{
+    background-color: deeppink;
+}
+
+#answer{
+    background-color: chartreuse;
+    display:grid;
+    justify-content: center;
+}
